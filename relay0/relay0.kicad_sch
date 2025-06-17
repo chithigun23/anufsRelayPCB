@@ -3583,7 +3583,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "footprints:CONN6_2601-1106_WAG"
+		(property "Footprint" "2601_1106:CONN6_2601-1106_WAG"
 			(at 40.64 55.88 0)
 			(effects
 				(font
@@ -4087,7 +4087,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "footprints:CONN6_2601-1106_WAG"
+		(property "Footprint" "2601_1106:CONN6_2601-1106_WAG"
 			(at 156.21 59.69 0)
 			(effects
 				(font
