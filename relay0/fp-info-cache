@@ -1,18 +1,4 @@
-26026287135156927
-2601_1102
-CONN2_2601-1102_WAG
-
-2601-1102 
-0
-4
-4
-2601_1106
-CONN6_2601-1106_WAG
-
-2601-1106 
-0
-12
-12
+26021036614748938
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -65288,13 +65274,6 @@ THT
 0
 4
 2
-J107F1AS2012VDC.80
-RELAY_J107F1A_CRS
-
-J107F1AS2012VDC.80 
-0
-4
-4
 Jumper
 SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm
 SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, bridged with 2 copper strips
